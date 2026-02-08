@@ -1,1 +1,14 @@
-# Table-of-Contents
+## 📋 Table of Contents
+| S No. | Project                          | Type                           | Description                                                       | Link                                                                                  |
+|-------|----------------------------------|--------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 1     |  GDP & Life Score ETL - Analysis | `Data Engineering`             | 200 + Countries GDP & Life Score Data ETL and Analysis            | https://github.com/Fayyaz6137/200-Plus-Countries-GDP-and-Life-Ladder-ETL-and-Analysis |
+| 2     | HR Web Excel Automation          | `Web Dev - Django`             | Prima HR Excel Automation Django App                              | https://github.com/Fayyaz6137/Prima_HR_Excel_Automation_Django                        |
+| 3     | House Price Predcition           | `Machine Learning`             | House Sale Price Prediciton                                       | https://github.com/Fayyaz6137/House_Sale_Price_Prediction                             |
+| 4     | Web Portfolio                    | `Web Dev - Flask`              | Web Portfolio on Flask                                            | https://github.com/Fayyaz6137/Web-Portfolio-Flask                                     |
+| 5     | Snake                            | `Turtle Graphics `             | Snake game in Python                                              | https://github.com/Fayyaz6137/Snake-Game-in-Python                                    |
+| 6     | Ping Pong                        | `Turtle Graphics `             | Ping Pong game in Python                                          | https://github.com/Fayyaz6137/Ping_Pong_Game_Python                                   |
+| 7     | Password Manager                 | `Encryption Decryption Python` | Generate and manage encryption and decryption of passwords in GUI | https://github.com/Fayyaz6137/Password_Manager                                        |
+| 8     | Stock Market Alert               | `API`                          | Whatsapp message with details regarding stock movement            | https://github.com/Fayyaz6137/Stock-Market-WhatsApp-Alert                             |
+| 9     | Cheapest Fligth Alert            | `API`                          | Email  with details of cheapest flight available                  | https://github.com/Fayyaz6137/Cheapest-Flight-Alert-                                  |
+| 10    | Play Ground                      | `Mini Projects`                | 10+ mini projects and games for practice                          | https://github.com/Fayyaz6137/Play-Ground                                             |
+
