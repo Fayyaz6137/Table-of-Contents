@@ -6,9 +6,9 @@
 | 3     | House Price Predcition           | `Machine Learning`             | House Sale Price Prediciton                                       | https://github.com/Fayyaz6137/House_Sale_Price_Prediction                             |
 | 4     | Web Portfolio                    | `Web Dev - Flask`              | Web Portfolio on Flask                                            | https://github.com/Fayyaz6137/Web-Portfolio-Flask                                     |
 | 5     | Snake Game                            | `Turtle Graphics `             | Snake game in Python                                              | https://github.com/Fayyaz6137/Snake-Game-in-Python                                    |
-| 6     | Ping Pong                        | `Turtle Graphics `             | Ping Pong game in Python                                          | https://github.com/Fayyaz6137/Ping_Pong_Game_Python                                   |
+| 6     | Ping Pong Game                        | `Turtle Graphics `             | Ping Pong game in Python                                          | https://github.com/Fayyaz6137/Ping_Pong_Game_Python                                   |
 | 7     | Password Manager                 | `Encryption Decryption Python` | Generate and manage encryption and decryption of passwords in GUI | https://github.com/Fayyaz6137/Password_Manager                                        |
 | 8     | Stock Market Alert               | `API`                          | Whatsapp message with details regarding stock movement            | https://github.com/Fayyaz6137/Stock-Market-WhatsApp-Alert                             |
 | 9     | Cheapest Fligth Alert            | `API`                          | Email  with details of cheapest flight available                  | https://github.com/Fayyaz6137/Cheapest-Flight-Alert-                                  |
-| 10    | Play Ground                      | `Mini Projects`                | 10+ mini projects and games for practice                          | https://github.com/Fayyaz6137/Play-Ground                                             |
+| 10    | Play Ground                      | `Mini Projects and Games`                | 10+ mini projects and games for practice                          | https://github.com/Fayyaz6137/Play-Ground                                             |
 
