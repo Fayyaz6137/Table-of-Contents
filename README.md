@@ -12,4 +12,4 @@
 | 9     | Stock Market Alert               | `API`                                                               | Whatsapp message with details regarding stock movement            | https://github.com/Fayyaz6137/Stock-Market-WhatsApp-Alert                             |
 | 10    | Cheapest Fligth Alert            | `API`                                                               | Email  with details of cheapest flight available                  | https://github.com/Fayyaz6137/Cheapest-Flight-Alert-                                  |
 | 11    | Play Ground                      | `Mini Projects`                                                     | 10+ mini projects and games for practice                          | https://github.com/Fayyaz6137/Play-Ground                                             |
-|
+
